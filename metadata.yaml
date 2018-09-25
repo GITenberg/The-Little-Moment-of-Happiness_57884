@@ -1,5 +1,8 @@
 _repo: The-Little-Moment-of-Happiness_57884
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57884-h/images/cover.jpg
 creator:
   author:
     agent_name: Kelland, Clarence Budington
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '4987'
     url: http://www.gutenberg.org/2009/agents/4987
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57884#The-Little-Moment-of-Happiness
 gutenberg_issued: '2018-09-10'
 gutenberg_type: Text
 identifiers:
